@@ -1,0 +1,21 @@
+﻿@font-face {
+   font-family: popsies;
+   src: url('/Content/Popsies.ttf');
+}
+#issueContainer {
+    margin-left:15%;
+    margin-top:15%;
+}
+a {
+    font-family:popsies;
+    font-size:40px;
+    color:#000000;
+}
+a:hover {
+    text-decoration:none;
+    color:#000000;
+
+}
+a:past {
+    color:#000000
+}
