@@ -190,7 +190,9 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Content\Popsies.ttf" />
     <Content Include="Content\Issues\1.pdf" />
+    <Content Include="Content\Issues\2.pdf" />
     <None Include="Properties\PublishProfiles\artmagazine.us - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\yme-artmagazine-us - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
